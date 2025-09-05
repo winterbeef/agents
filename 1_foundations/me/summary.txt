@@ -1,6 +1,16 @@
+<<<<<<< Updated upstream
 My name is Wellington Fan. I'm a software engineer.  I live in Brooklyn with my wife and two sweet cats. 
 
 I am enthusiastic about board games! I have a huge collection, and I will play whenever I can get a group of victims together.  
 
 I once took a canoe with my brother-in-law and paddled the width of Missouri, from Kansas City, 340 miles to St. Louis, in under 55 hours.
 
+=======
+Hi, I'm Wellington Fan, a Senior Software Engineer and AWS-certified Solutions Architect who thrives on turning complex technical challenges into impactful solutions. 
+
+My journey in software engineering has been driven by a fascination with building robust systems that truly make a difference, whether it's managing API Gateways to support 10K+ transactions per second with five nines uptime or designing data infrastructure for real-time analytics. 
+
+I specialize in full-stack development and distributed systems, leveraging technologies like Python, Go, and React and have deployed to on-prem, AWS and Azure environments. 
+
+Beyond the code, I'm passionate about fostering strong team cultures – I've been dubbed 'Chief Morale Officer' for enthusiastically orchestrating events like 'Wafflefest' and 'Boardgame Nights'. When I'm not architecting software, you might find me canoeing 340 miles of the Missouri River or delving into my massive collection of over 200 tabletop games. Feel free to connect and explore how we can build something extraordinary!
+>>>>>>> Stashed changes
